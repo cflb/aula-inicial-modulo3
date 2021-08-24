@@ -47,4 +47,9 @@ Para criar uma nova bransh use o seguinte comando:
 > git checkout -b explicado-como-adiciona-novas-bransh
 
 
+```
+Ao finalizar o fluxo de trabalho, vou adicionar e commitar meus arquivos, e 
+enviar para a nova origin, com o comando a baixo:
+```
 
+> git push origin explicado-como-adiciona-novas-bransh
