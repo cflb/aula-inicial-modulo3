@@ -18,3 +18,7 @@
 
 ## Terceiro Passo
 Começar os trabalhos...
+
+### Monitorando repositório GIT
+
+> git status
