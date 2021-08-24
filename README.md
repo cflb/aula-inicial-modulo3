@@ -37,3 +37,14 @@ Enviando os dados do repositório local para o repositório no github
 ```
 
 > git push origin main 
+
+### Modificando a bransh atual
+
+```
+Para criar uma nova bransh use o seguinte comando:
+```
+
+> git checkout -b explicado-como-adiciona-novas-bransh
+
+
+
