@@ -53,3 +53,33 @@ enviar para a nova origin, com o comando a baixo:
 ```
 
 > git push origin explicado-como-adiciona-novas-bransh
+
+### Como Clonar um Repositório Git no Github
+
+```
+Para clonar um repositório remoto no github, primeiro, copie o endereço preferencialmente
+o HTTPS do seu repositório. Depois digite o seguinte comando:
+```
+
+> git clone a_URL_do_seu_repositorio
+
+Ex.:
+
+> git clone https://github.com/cflb/aula-inicial-modulo3.git
+
+```
+Após a clonagem do repositório entre nele e faça as modificações necessárias
+```
+
+> cd aula-inicial-modulo3
+
+```
+Uma vez que modificações foram feitas, execute o fluxo git para monitorar, comitar e enviar
+os arquivos para o repositório Remot.
+```
+
+> git push origin nome-da-branch
+
+Ex.:
+
+> git push origin main
