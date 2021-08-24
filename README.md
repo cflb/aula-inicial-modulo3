@@ -25,7 +25,7 @@
 ### Conectar o Repostório Local com o Repositório Remoto no GitHub
 
 ```
-É necessário adicionar ao git o repositório remoto do github, \
+É necessário adicionar ao git o repositório remoto do github,
 para isso execute o segunte comando:
 ```
 
